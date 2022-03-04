@@ -134,10 +134,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="evansullvan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evansullvan&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evansullvan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="evansullvan" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -146,7 +146,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/evansullvan"><img alt="evansullvan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=evansullvan&custom_title=evansullvan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -154,10 +154,10 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evansullvan&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+<!--Credits: [7oSkaaa](https://github.com/7oSkaaa) -->
 
 ![](https://hit.yhype.me/github/profile?user_id=75040217)
 
