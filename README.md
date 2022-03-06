@@ -5,7 +5,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=evansullvan" alt="EvanSullvan" /> 
+	<img src="https://komarev.com/ghpvc/?username=evansullvan&style=for-the-badge" alt="EvanSullvan" /> 
 	
 </p>
 
