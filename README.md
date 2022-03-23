@@ -14,7 +14,7 @@
 - :school: I am in 2nd year of Software development in Waterford Institute of Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
