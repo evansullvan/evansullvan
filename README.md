@@ -11,7 +11,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am in 3rd year of Software development in Waterford Institute of Technology
+- :school: I am in 4th year of Software development in Waterford Institute of Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
