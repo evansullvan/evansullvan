@@ -16,6 +16,7 @@
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
+- :technologist: Found of `Appthena` https://www.bcmlabs.com/
 
 <br>
 
